@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculadoraLucian</string>
+    <string name="result">Resultado</string>
+    <string name="error">ERROR</string>
+</resources>
